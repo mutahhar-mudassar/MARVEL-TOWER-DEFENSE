@@ -55,7 +55,7 @@ Survive all waves to win!
 ## 🎓 Context
 2nd Year Project — BS Computer Science  
 COMSATS University Islamabad, Lahore Campus  
-Developer: Muhammad Mutahhar
+Developer: Muhammad Mutahhar, Shanzae Mudassar, Mehak Fatima
 ```
 
 ---
